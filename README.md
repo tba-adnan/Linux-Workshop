@@ -19,9 +19,6 @@ Vous trouverez ici les ressources de l'atelier Linux dans le cadre du club infor
 
 
 
-- step by step on how to deploy ubuntu on virtualbox here **[Guru99](https://www.codecademy.com/learn/introduction-to-linux)**.
-
-
 - Comment déployer ubuntu sur VirtualBox, étape par étape **[ici](https://www.codecademy.com/learn/introduction-to-linux)**. (Meilleure que l'explication d'adnane 😂)
 
 
