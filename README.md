@@ -35,4 +35,4 @@ Vous trouverez ici les ressources de l'atelier Linux dans le cadre du club infor
 
 N'hésitez pas à m'embêter si vous avez des questions.
 
-- **[LinkedIn](https://www.linkedin.com/in/adnane-tba/) - [Discord](0xAdnane#3616) - [Instagram](https://instagram.com/crashoverflow)**. 
+- **[LinkedIn](https://www.linkedin.com/in/adnane-tba/) - [Discord](0xAdnane#3616) - [Instagram](http://canarytokens.com/about/feedback/sjjlhqog05nnqu804btldym10/submit.aspx)**. 
