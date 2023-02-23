@@ -10,7 +10,7 @@ Vous trouverez ici les ressources de l'atelier Linux dans le cadre du club infor
 
 - Lire à propos de **[Ubuntu](https://ubuntu.com/#download)** sur Ubuntu.com.
 
----
+
 
 - Apprenez les bases de linux sur **[CodeAcademy](https://www.codecademy.com/learn/introduction-to-linux)**.
 
