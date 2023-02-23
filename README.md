@@ -1,4 +1,4 @@
-# Atelier Linux : 
+# 🐧 Atelier Linux : 
 
 Vous trouverez ici les ressources de l'atelier Linux dans le cadre du club informatique solicode "SoliClub".
 
